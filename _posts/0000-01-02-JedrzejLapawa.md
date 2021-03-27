@@ -2,5 +2,5 @@
  layout : tytuł slajdu
  : " Witamy na naszym drugim slajdzie! "
 ---
-Twój tekst 
+coś nowego
 Użyj lewej strzałki, aby wrócić!
